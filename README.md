@@ -70,7 +70,7 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+If things goes well, this will be finished be machiat lah
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
@@ -86,8 +86,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 
 #
-
-
-
-
-
