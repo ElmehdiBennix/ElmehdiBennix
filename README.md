@@ -47,19 +47,20 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 </div>  
   
 
-<br/>  
-
 
 ## Github Stats  
 <div align="center">
 <table>
 <tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ELmehdibennix&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ELmehdibennix&theme=merko&hide_border=true&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELmehdibennix&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
+ 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/ebennix" alt="ebennix's 42 stats" /></a>
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELmehdibennix&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ELmehdibennix&theme=merko&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr>
 </table>
@@ -85,42 +86,8 @@ If things goes well, this section should automatically be replaced by a list of 
 </div>  
   
 
-<br/>
 
-----
-<div align="center"><a href="https://github.com/ElmehdiBennix?tab=repositories"></a></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/ebennix" alt="ebennix's 42 stats" /></a>
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ELmehdibennix&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ELmehdibennix&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ELmehdibennix&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-
+#
 
 
 
