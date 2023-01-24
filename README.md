@@ -10,10 +10,10 @@
 How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div>**  
 
 
-- 🔭  Salam am Mehdi currently studying in [1337](https://1337.ma/en/) .  
+- 🔭  Salam am Mehdi currently studying in [1337](https://1337.ma/en/) 
   
 
-- 📗 I’m currently learning the 42 cursus .  
+- 📗 I’m currently learning the 42 cursus
   
 
 - 💬 Reach me via : bennixmehdi@gmail.com <br />
