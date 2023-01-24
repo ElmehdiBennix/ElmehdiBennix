@@ -21,8 +21,10 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
  
 
 - 👯 Fun fact **: Youtube was created to be a dating web site .**  
+
+</br>
   
-## Connect with me  
+## About me :
 <div align="right">
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko"/>
 </div>
@@ -44,7 +46,7 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
   
 
 
-## Github Stats  
+## Overall Stats :
 <div align="center">
 <table>
 <tr><td valign="top" width="50%">
