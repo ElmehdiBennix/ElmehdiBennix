@@ -1,12 +1,19 @@
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RamBeau#5408) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/steve.hoken.1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/19.99pm_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/el-mehdi-bennix-887314235/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21069559/rambeau) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/TheGamingGuLa) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ElmehdiBennix&theme=calm&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ElmehdiBennix&theme=calm&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ElmehdiBennix&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/ebennix" alt="ebennix's 42 stats" /></a>
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ELmehdibennix&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ELmehdibennix&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ELmehdibennix&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+
+
+
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ElmehdiBennix&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -39,6 +46,9 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 <br/>  
 
 ## Connect with me  
+<div align="right">
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko"/>
+</div>
 <div align="center">
 <a href="https://twitter.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -59,7 +69,7 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 
 
 ## Github Stats  
-
+<div align="center">
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ELmehdibennix&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -68,7 +78,8 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELmehdibennix&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
 
-</td></tr></table>  
+</td></tr></table>
+</div>
 
 <br/>  
 
@@ -91,9 +102,6 @@ If things goes well, this section should automatically be replaced by a list of 
   
 
 <br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
