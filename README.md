@@ -1,20 +1,3 @@
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/ebennix" alt="ebennix's 42 stats" /></a>
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ELmehdibennix&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ELmehdibennix&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ELmehdibennix&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-
-
-
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ElmehdiBennix&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -104,4 +87,41 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">-- Go back up --<a href="https://github.com/ElmehdiBennix"></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/ebennix" alt="ebennix's 42 stats" /></a>
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ELmehdibennix&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ELmehdibennix&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ELmehdibennix&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+
+
+
+
+
+
