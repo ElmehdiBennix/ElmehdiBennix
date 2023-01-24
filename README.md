@@ -56,8 +56,7 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 
 </td><td valign="top" width="50%">
  
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/ebennix" alt="ebennix's 42 stats" /></a>
-
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ebennix" alt="ebennix's 42 stats" style="width: 100%" /></a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELmehdibennix&theme=merko&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr>
