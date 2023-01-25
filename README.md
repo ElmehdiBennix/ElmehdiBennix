@@ -10,14 +10,14 @@
 How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div>**  
 
 
-- 🔭  Salam am Mehdi currently studying in [1337](https://1337.ma/en/) 
+- 🔭 Am Mehdi a student in [1337](https://1337.ma/en/) 
   
 
-- 📗 I’m currently learning the 42 cursus
-  
+- 📗 learning and working on the 42 cursus along with some personal projects
+
 
 - 💬 Reach me via : bennixmehdi@gmail.com <br />
- &emsp;&emsp;&emsp;&emsp;&emsp;&ensp; or using the links below . . .  
+ &emsp;&emsp;&emsp;&emsp;&emsp;&ensp; **//** or using the **links** below . . .  
  
 
 - 👯 Fun fact **: Youtube was created to be a dating web site .**  
@@ -31,22 +31,17 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 <br/><br/>
 <div align="center">
 <a href="" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+  <a href="" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" style="margin-bottom: 5px;" />
-</a>
-  
-  
 </div>  
   
 
