@@ -49,15 +49,14 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 ## Overall Stats :
 <div align="center">
 <table>
-<tr><td valign="top" width="50%">
+<tr><td valign="top" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ELmehdibennix&theme=merko&hide_border=true&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELmehdibennix&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=ELmehdibennix&theme=merko&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=merko&langs_count=4" style="width:100%"/>
+</td><td valign="top" width="55%">
  
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ebennix" alt="ebennix's 42 stats" style="width: 100%" /></a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ELmehdibennix&theme=merko&hide_border=true" align="left" style="width: 100%" />
+<img src="https://badge.mediaplus.ma/greenbinary/ebennix" alt="ebennix's 42 stats" style="width:100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ELmehdibennix&theme=merko&hide_border=true" style="width:100%" />
 
 </td></tr>
 </table>
