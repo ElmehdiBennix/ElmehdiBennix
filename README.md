@@ -63,25 +63,8 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 </table>
 </div>
 
-<br/>  
-
 ----
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this will be finished be machiat lah
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=yf2b0oql9m7dd4oilugymtn7r&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=59ad58&bar_color_cover=false" /></div>  
-
-<br/>  
-
-<div align="center">
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=ElmehdiBennix&&style=flat-square" align="center" />
 </div>  
-  
-
-
-#
