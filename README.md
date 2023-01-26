@@ -51,8 +51,9 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 <table>
 <tr><td valign="top" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ELmehdibennix&theme=merko&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=merko&langs_count=4" style="width:100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ELmehdibennix&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=merko&langs_count=4&hide_border=true" style="width:100%"/>
+
 </td><td valign="top" width="55%">
  
 <img src="https://badge.mediaplus.ma/greenbinary/ebennix" alt="ebennix's 42 stats" style="width:100%" />
