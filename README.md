@@ -34,7 +34,7 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 
 </td><td valign="top" width="55%">
  
-<img src="https://badge.mediaplus.ma/greenbinary/ebennix" alt="ebennix's 42 stats" style="width:100%" />
+<img src="https://badge.mediaplus.ma/greenbinary/ebennix" alt="ebennix's 42 stats" style="width:100%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELmehdibennix&theme=merko&hide_border=true" style="width:100%" />
 
 </td></tr>
@@ -43,14 +43,14 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 
 ----
 
+</br>
 
-
-<br/>
 <div align="center">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt=facebook width="45" height="45"/>
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt=instagram width="45" height="45"/>
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" alt=twitter width="45" height="45"/>
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt=linkedin width="45" height="45"/>
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" alt=discord width="45" height="45"/>
 </div>  
 </br>
 
