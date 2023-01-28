@@ -63,10 +63,7 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 
  #
 
+<div align="center">
 
-
-
-
-<br clear="both">
-
-<img src="https://github.com/ElmehdiBennix/ElmehdiBennix/tree/output/snake.svg" alt="Snake animation" />
+<img src=https://github.com/ElmehdiBennix/ElmehdiBennix/blob/output/snake.svg alt="Snake animation" />
+</div>
