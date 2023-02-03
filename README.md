@@ -29,13 +29,13 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 <table>
 <tr><td valign="top" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Elmehdibennix&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmehdibennix&theme=merko&langs_count=4&hide_border=true" style="width:100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ElmehdiBennix&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmehdiBennix&theme=merko&langs_count=4&hide_border=true" style="width:100%"/>
 
 </td><td valign="top" width="55%">
  
 <img src="https://badge.mediaplus.ma/greenbinary/ebennix" alt="ebennix's 42 stats" style="width:100%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Elmehdibennix&theme=merko&hide_border=true" style="width:100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElmehdiBennix&theme=merko&hide_border=true" style="width:100%" />
 
 </td></tr>
 </table>
