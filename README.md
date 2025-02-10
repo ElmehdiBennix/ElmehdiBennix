@@ -17,7 +17,6 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 
 
 - 💬 Reach me via : bennixmehdi@gmail.com <br />
- &emsp;&emsp;&emsp;&emsp;&emsp;&ensp; **//** or using the **links** below . . .  
  
 
 - 👯 Fun fact **: Youtube was created to be a dating web site .**  
@@ -43,15 +42,6 @@ How long has it been  ? [🎧](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 
 ----
 
-</br>
-<div align="center">
-  <a href="https://www.facebook.com/steve.hoken.1"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" /></a>
-  <a href="https://www.instagram.com/19.99pm_/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  <a href="https://twitter.com/RamBeau__"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" /></a>
-  <a href="https://www.linkedin.com/in/el-mehdi-bennix-887314235/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-  <a href="https://discord.com/invite/RamBeau#5408"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
-</div>  
-</br>
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko"/>
