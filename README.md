@@ -16,7 +16,7 @@ How long has it been  ? [🎶](https://www.youtube.com/watch?v=qUmccbstKrc)</div
 - 📗 learning and working on the 42 cursus along with some personal projects
 
 
-- 💬 Reach me via : bennixmehdi@gmail.com <br />
+- 💬 Reach me via : bennixmehdi0@gmail.com <br />
  
 
 - 👯 Fun fact **: Youtube was created to be a dating web site .**  
